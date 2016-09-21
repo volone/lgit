@@ -1,0 +1,2 @@
+# lgit
+For learning git
